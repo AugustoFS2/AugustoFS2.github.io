@@ -2,7 +2,19 @@ html {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#faqs:link, #faqs:visited, #faqs:active {
+#faq1:link, #faq1:visited, #faq1:active {
+    color: #7E0202;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#faq2:link, #faq2:visited, #faq2:active {
+    color: #7E0202;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#faq3:link, #faq3:visited, #faq3:active {
     color: #7E0202;
     font-weight: 700;
     text-decoration: none;
